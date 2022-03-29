@@ -9,7 +9,7 @@ All files which do not contain the term "clinfile" contains gene expression data
 
 The files with .rda or .rar format contains gene expression data of all genes. .rar format is used as some .rda files are too big to upload, hence .rda files are split into 2 or 3 .rar files. Please join all parts of .rar files and then extract the files to get .rda files. For example:
 
-If user wants the complete gene expression data for the project TCGA-BLCA. The user needs to get the TCGA-BLCA.part1.rar and TCGA-BLCA.part2.rar. These two files need to be joined and extracted to get the file TCGA-BLCA.rda. Winrar software can do the task of joining and extracting from .rar files.
+If user wants the complete gene expression data for the project TCGA-BLCA. The user needs to get the TCGA-BLCA.part1.rar and TCGA-BLCA.part2.rar. These two files need to be joined and extracted to get the file TCGA-BLCA.rda. 7-Zip software can do the task of joining and extracting from .rar files (Link: https://itstillworks.com/join-rar-files-7zip-8589225.html).
 
 ## Outcome variable
 The continuous outcome which could be used to build models is number of cigarettes consumed in a day.
