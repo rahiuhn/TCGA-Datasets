@@ -1,5 +1,5 @@
 # TCGA-Datasets
-The files contains clinical and gene expression data of 9 TCGA projects. 
+The files contains clinical and gene expression data of 9 TCGA projects (Link: https://portal.gdc.cancer.gov/projects). 
 
 ## Clinical Files
 The csv files containing term "clinfile" contain the clinical data of the given project. For example, "TCGA-BLCA_clinfile.csv" contains clinical data of the project TCGA-BLCA. 
